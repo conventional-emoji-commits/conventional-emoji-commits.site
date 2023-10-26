@@ -12,7 +12,7 @@ We recommend that you proceed as if you’ve already released the product. Typic
 Are the emojis in the commit title specific or can I choose my own?
 
 #content
-While the emojis provided in the [Conventional Emoji Commits list](http://localhost:3000/list/list) offer a guideline, you can choose your own for custom scopes. However, be aware that using custom emojis might cause automated tools to malfunction, as the data extraction of these emojis could potentially fail. It's best to be consistent across your project. If you believe a specific emoji should be added to the standard list, consider submitting a [PR](https://github.com/conventional-emoji-commits/conventional-emoji-commits.site/pulls).
+While the emojis provided in the [Conventional Emoji Commits list](https://conventional-emoji-commits.site/list/list) offer a guideline, you can choose your own for custom scopes. However, be aware that using custom emojis might cause automated tools to malfunction, as the data extraction of these emojis could potentially fail. It's best to be consistent across your project. If you believe a specific emoji should be added to the standard list, consider submitting a [PR](https://github.com/conventional-emoji-commits/conventional-emoji-commits.site/pulls).
 ::
 :br
 ::disclosure{type="success" icon="pajamas:question"}
