@@ -1,17 +1,16 @@
 export default defineAppConfig({
    docux: {
-      title: 'Docux',
-      description: 'The best place to start your documentation.',
+      title: 'Conventional Emoji Commits',
+      description: 'A specification for adding human and machine readable meaning to commit messages using color-rich emojis 🌈',
       image: 'https://github.com/nyxb/docux/blob/main/.github/images/docux_repo_picture.png',
       socials: {
-         twitter: 'nuxtstudio',
-         github: 'nyxb/docux',
+         github: 'conventional-emoji-commits',
       },
       github: {
-         dir: '.starters/default/content',
+         dir: 'content',
          branch: 'main',
-         repo: 'docux',
-         owner: 'nyxb',
+         repo: 'conventional-emoji-commits.site',
+         owner: 'conventional-emoji-commits',
          edit: true,
       },
       aside: {
@@ -31,12 +30,7 @@ export default defineAppConfig({
          navigation: false,
       },
       footer: {
-         iconLinks: [
-            {
-               href: 'https://nuxt.com',
-               icon: 'simple-icons:nuxtdotjs',
-            },
-         ],
+         iconLinks: [],
       },
    },
 })
