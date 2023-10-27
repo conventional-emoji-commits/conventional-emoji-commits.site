@@ -25,10 +25,10 @@ A specification for adding human and machine readable meaning to commit messages
 </p>
 
 
-## Welcome to the Elk Docs
+## Welcome to Conventional emoji Commits
 
-The documentation site publishes to https://docs.elk.zone.
-We use [Docus](https://docus.dev) as the site generator and deploy through Netlify.
+The documentation site publishes to https://conventional-emoji-commits.site.
+We use [Docux](https://docux.dev) as the site generator and deploy through Netlify.
 
 ## Quickstart
 
@@ -84,8 +84,8 @@ ALWAYS WORK IN YOUR FORK/BRANCH.
 
 - Docs are in the `content` folder
 - Write in standard markdown
-- Refer to the Docus [writing pages](https://docus.dev/introduction/writing-pages) guide
-- Docus provides additional [components](https://docus.dev/api/components) to extend basic markdown
+- Refer to the Docux [writing pages](https://docux.dev/introduction/writing-pages) guide
+- Docux provides additional [components](https://docux.dev/api/components) to extend basic markdown
 
 Avoid screenshots until Conventional Emoji Commits reaches a stable release.
 
