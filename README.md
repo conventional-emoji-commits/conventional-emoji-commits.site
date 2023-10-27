@@ -25,7 +25,7 @@ A specification for adding human and machine readable meaning to commit messages
 </p>
 
 
-## Welcome to Conventional emoji Commits
+## Welcome to Conventional Emoji Commits
 
 The documentation site publishes to https://conventional-emoji-commits.site.
 We use [Docux](https://docux.dev) as the site generator and deploy through Netlify.
