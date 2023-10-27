@@ -14,6 +14,7 @@ A specification for adding human and machine readable meaning to commit messages
 <p align="center">
   <a href="https://nyxb.chat"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
   <a href="https://pr.new/conventional-emoji-commits/conventional-emoji-commits.site"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
+  <a href="https://nyxb.nexus"><img src="https://nyxb.blog/badges/badge-nyxb.svg" alt="Nyxb Website"></a>
   <a href="https://volta.net/conventional-emoji-commits/conventional-emoji-commits.site?utm_source=conventional-emoji-commits.site_readme"><img src="https://user-images.githubusercontent.com/904724/209143798-32345f6c-3cf8-4e06-9659-f4ace4a6acde.svg" alt="Open board on Volta"></a>
 </p>
 <br/>
