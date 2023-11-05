@@ -40,7 +40,7 @@ Conventional Emoji Commits encourages us to make more of certain types of commit
 How does this relate to SemVer?  
 
 #content
-`fix` type commits should be translated to PATCH releases. `feat` type commits should be translated to MINOR releases. Commits with `BREAKING CHANGE` in the commits, regardless of type, should be translated to MAJOR releases.
+`🩹 fix` type commits should be translated to PATCH releases. `✨ feat` type commits should be translated to MINOR releases. Commits with `🚨 BREAKING CHANGE` in the commits, regardless of type, should be translated to MAJOR releases.
 ::
 :br
 ::disclosure{type="success" icon="pajamas:question"}

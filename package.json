@@ -1,6 +1,6 @@
 {
-  "name": "docux-starter",
-  "version": "0.1.0",
+  "name": "conventional-emoji-commits",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
